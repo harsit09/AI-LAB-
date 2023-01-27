@@ -3,6 +3,7 @@ combinations = [(True,True, True), (True,True,False),(True,False,True),(True
  kb = '' 
  q = '' 
  priority = {'~': 3, 'v': 1, '^': 2} 
+ 
   
  def input_rules(): 
      global kb, q 
